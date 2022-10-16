@@ -1,4 +1,4 @@
-This is a crypto currency demo android app that is build with the latest android UI building tool JETPACK COMPOSE and Compose ConstraintLayout with Kotlin.
+This is a crypto currency demo android app that is built with the latest android UI building tool JETPACK COMPOSE and Compose ConstraintLayout with Kotlin.
 
 This project is structured with MVVM, Repository Pattern with Clean Architecture.
 
